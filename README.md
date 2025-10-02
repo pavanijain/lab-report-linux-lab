@@ -1,1 +1,5 @@
 # lab-report-linux-lab
+NAME =PAVANI JAIN
+SAP ID -590027830
+COURSE- BTECH CS
+BATCH - B77
