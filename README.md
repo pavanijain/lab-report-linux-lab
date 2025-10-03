@@ -8,7 +8,7 @@ BATCH - B77
 
 ## List of experiments
 
--[Experiment 1](EXP1(1).pdf)
+-[Experiment 1](EXP1 (1).pdf)
 -[Experiment 2](EXP2.pdf)
 -[Experiment 3](EXP3)
 -[Experiment 4](EXP4.pdf)
